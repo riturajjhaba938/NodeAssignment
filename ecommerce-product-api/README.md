@@ -1,5 +1,10 @@
 # E-Commerce Product API
 
+## Important Links
+- **Deployment**: [Live API](https://nodeassignment-1-9w11.onrender.com)
+- **GitHub**: [Repository](https://github.com/riturajjhaba938/NodeAssignment)
+- **Postman Documentation**: [API Docs](https://riturajjha938-2713999.postman.co/workspace/0968e471-3fad-4cbf-8411-627587488008/documentation/50841147-2683a3aa-73cf-48c7-92d4-2a82fc17f653)
+
 Build a REST API using **Express.js** that manages product data for an e-commerce platform using an in-memory JSON array.
 
 ## Setup Instructions
