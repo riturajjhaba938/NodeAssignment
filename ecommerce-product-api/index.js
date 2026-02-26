@@ -58,7 +58,7 @@ const getNextId = () => {
     return Math.max(...products.map(p => p.id)) + 1;
 };
 
-app.get("/", (res, req) => {
+app.get("/", (req, res) => {
     res.status(200).json({ message: "Welcome to the Product API visit /products to see all products"})
 })
 
